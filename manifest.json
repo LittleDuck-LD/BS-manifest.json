@@ -1,0 +1,12 @@
+{
+  "id" : 545,
+  "cachebust" : "539b50118cbede5ec2f58818b177b50d",
+  "pages" : {
+    "news" : {
+      "flashTitle" : "hi",
+      "notificationType" : 0,
+      "lastUpdate" : 1680249520,
+      "flashText" : "hi"
+    }
+  }
+}
